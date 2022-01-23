@@ -1,0 +1,15 @@
+s 20 20 10 orange
+c 4 10 20 purple
+t 40 7 8 5 red
+l 4 10 8 purple
+S 20 20 10 orange
+C 20 10 5 6 red
+O 40 40 12 14 yellow
+U 40 10 5 blue 
+t 40 7 11 3 green
+S 20 20 10 orange
+C 40 12 10 12 red
+t 40 4 15 4 yellow
+C 40 40 12 14 brown
+l 14 10 8 cyan
+S 30 30 15 green
